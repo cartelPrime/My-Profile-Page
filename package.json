@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "个人介绍网站",
   "scripts": {
-    "build": "echo 'Build completed successfully'"
+    "build": "node build.js"
   },
   "keywords": ["portfolio", "profile", "website"],
   "author": "邵政杰",
